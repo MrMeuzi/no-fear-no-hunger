@@ -1,4 +1,4 @@
-# No Fear, No Hunger — Fear & Hunger 1 Mod
+# No Fear, No Hunger - Fear & Hunger 1 Mod
 
 Disable passive hunger and mind drain in **Fear & Hunger 1**. Explore without starvation timers while keeping combat effects and skill costs unchanged. Requires [MattieFM Mod Loader](https://mattiefm.itch.io/fear-and-hunger-mod-loader).
 
@@ -8,7 +8,7 @@ Disable passive hunger and mind drain in **Fear & Hunger 1**. Explore without st
 
 ## What it does
 
-Stops passive hunger growth and background Mind drain while exploring. It doesn't restore either stat — it keeps them from draining over time.
+Stops passive hunger growth and background Mind drain while exploring. It doesn't restore either stat - it keeps them from draining over time.
 
 Food and Mind-restoring items still work. Skills still cost Mind, and combat effects apply as usual.
 
@@ -39,7 +39,7 @@ Tested on **Fear & Hunger 1.4.1**. Other game versions, fan translations and com
 
 ## Что делает мод
 
-Останавливает пассивный рост голода и фоновую потерю рассудка при исследовании. Мод не восстанавливает показатели — он не даёт им расходоваться со временем.
+Останавливает пассивный рост голода и фоновую потерю рассудка при исследовании. Мод не восстанавливает показатели - он не даёт им расходоваться со временем.
 
 Еда и предметы для восстановления рассудка продолжают работать. Навыки по-прежнему расходуют рассудок, а боевые эффекты действуют как обычно.
 
