@@ -1,6 +1,6 @@
-# No Fear, No Hunger
+# No Fear, No Hunger — Fear & Hunger 1 Mod
 
-A mod for **Fear & Hunger 1** that lets you explore without constantly losing Hunger and Mind.
+Disable passive hunger and mind drain in **Fear & Hunger 1**. Explore without starvation timers while keeping combat effects and skill costs unchanged. Requires [MattieFM Mod Loader](https://mattiefm.itch.io/fear-and-hunger-mod-loader).
 
 **Mod version:** 1.0  
 **Tested on:** Fear & Hunger 1.4.1  
@@ -31,7 +31,7 @@ Tested on **Fear & Hunger 1.4.1**. Other game versions, fan translations and com
 
 # Русский
 
-Мод для **Fear & Hunger 1**, с которым можно спокойно исследовать подземелье, не теряя постоянно сытость и рассудок.
+Мод на отключение голода и пассивной потери рассудка в **Fear & Hunger 1**. Позволяет спокойно исследовать подземелье, не теряя постоянно сытость и рассудок.
 
 **Версия мода:** 1.0  
 **Проверено на:** Fear & Hunger 1.4.1  
